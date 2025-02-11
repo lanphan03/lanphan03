@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lanphan03
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
